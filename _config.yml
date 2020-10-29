@@ -34,6 +34,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-admin
+  - jemoji
   # - jekyll-tagging
   # - jekyll-archives
   # - jekyll-toc

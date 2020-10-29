@@ -17,6 +17,7 @@ gem "minima", "~> 2.5"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-admin"
+  gem "jemoji"
   # gem "jekyll-archives"
   # gem "jekyll-tagging"
   # gem "jekyll-toc"
